@@ -1,0 +1,102 @@
+source,target,value
+France,Russia,7
+Germany,Russia,13
+Germany,Italy,32
+Austria,Germany,11
+Germany,Spain,5
+France,Spain,5
+France,Poland,11
+France,Germany,28
+Germany,Poland,33
+Estonia,Germany,5
+Estonia,Latvia,12
+Latvia,Lithuania,6
+Finland,Lithuania,11
+Finland,Germany,11
+Denmark,Poland,5
+Denmark,Norway,12
+Denmark,Sweden,6
+Germany,Sweden,6
+Belgium,Germany,5
+Belgium,Netherlands,6
+Luxembourg,Netherlands,6
+Belgium,Luxembourg,5
+Belgium,France,5
+France,Italy,15
+Germany,Greece,10
+Albania,Greece,12
+Greece,Ukraine,5
+Belarus,Ukraine,6
+Belarus,Libya,5
+Egypt,Libya,16
+Egypt,Iraq,5
+Iraq,Japan,5
+Germany,Japan,33
+Japan,Russia,22
+Germany,Morocco,5
+Algeria,Morocco,6
+Algeria,Italy,5
+Japan,Thailand,6
+Singapore,Thailand,6
+Japan,Singapore,5
+Japan,Solomon Islands,17
+Philippines,Solomon Islands,6
+Japan,Philippines,16
+India,Japan,12
+Japan,Poland,5
+France,India,6
+India,Pakistan,18
+Israel,Pakistan,6
+Israel,South Africa,12
+Israel,Libya,5
+Iran,Libya,6
+Germany,Iran,10
+France,Japan,5
+Japan,Papua New Guinea,5
+India,Papua New Guinea,5
+Pakistan,Philippines,11
+Laos,Philippines,6
+Cambodia,Laos,6
+Cambodia,Kenya,5
+Ghana,Kenya,6
+Cape Verde,Ghana,5
+Angola,Cape Verde,6
+Angola,Mozambique,6
+Latvia,Mozambique,5
+Estonia,Lithuania,6
+Finland,Romania,6
+Albania,Romania,5
+Albania,Bulgaria,6
+Bulgaria,Poland,6
+Poland,Romania,6
+Hungary,Romania,6
+Hungary,Mongolia,5
+Cuba,Mongolia,6
+Cuba,United States,10
+Canada,United States,5
+Australia,Canada,6
+Australia,Vietnam,5
+Cambodia,Vietnam,10
+Cuba,Vietnam,5
+Russia,United States,5
+India,Russia,5
+India,South Africa,5
+Rwanda,South Africa,5
+Austria,Rwanda,5
+Austria,Poland,5
+Poland,Russia,5
+Finland,Russia,6
+Germany,Norway,6
+France,Norway,5
+Greece,Italy,5
+Italy,Japan,16
+Israel,Japan,5
+Iran,Israel,5
+Germany,India,5
+Afghanistan,Philippines,5
+Afghanistan,Romania,5
+Romania,Russia,6
+Russia,Vietnam,5
+Lebanon,Vietnam,5
+India,Lebanon,5
+India,Singapore,5
